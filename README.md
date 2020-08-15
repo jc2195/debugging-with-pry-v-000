@@ -54,7 +54,7 @@ Let's take a look. In this repository, you'll see a file called `pry_is_awesome.
 You should see the following code: 
 
 ```ruby
-require 'pry'
+require 'pry' 
 
 def prying_into_the_method
     inside_the_method = "We're inside the method"
